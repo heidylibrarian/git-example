@@ -27,11 +27,21 @@ A bullet list is created using `*`, `+`, or `-`, like:
 - muffin
 - turnip
 - giant mechanical ant
+- 
+Meals of the day, as reported by Peregrin Took:
+
+1. Breakfast (7am)
+2. Second breakfast (9am)
+3. Elevenses (11am)
+4. Luncheon (1pm)
+5. Afternoon tea (3pm)
+6. Dinner (6pm)
+7. Supper (9pm)
 
 A numbered list is created using a number + `.`.
 The actual numbering doesn't matter:
 
-1. one
+1. one 
 2. two
 6. three
 2. four
